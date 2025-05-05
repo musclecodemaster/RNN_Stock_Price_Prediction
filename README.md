@@ -34,7 +34,7 @@ To develop an RNN model for stock price prediction by:
 - TensorFlow / Keras
 - Matplotlib & Seaborn
 
-##Model Summary
+## Model Summary
 LSTM-based neural network trained for each stock
 
 Used MinMaxScaler for normalization
@@ -43,7 +43,7 @@ Evaluated using RMSE and visual plots
 
 Predictions show trends similar to actual values with room for further tuning
 
-##Each company's stock was predicted separately using LSTM. Below is a summary of model effectiveness:
+## Each company's stock was predicted separately using LSTM. Below is a summary of model effectiveness:
 
 Company	Model Used	Notable Outcome
 AMZN	LSTM	Captured upward trend
