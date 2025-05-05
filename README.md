@@ -51,7 +51,4 @@ GOOGL	LSTM	Predicted general movement
 IBM	LSTM	Less accurate, needs tuning
 MSFT	LSTM	Reasonable trend match
 
-👨‍💻 Authors
-Sujana Anche
-
-Simhadri Sai Krishna
+👨‍💻 Authors : Sujana Anche, Simhadri Sai Krishna
